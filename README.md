@@ -1,7 +1,7 @@
 # Comparación de Algoritmos de Ordenamiento
 
 ## Enlace al Repositorio
-[GitHub - Proyecto Algoritmos de Ordenamiento] (https://github.com/SebastianY2007/icc-est-u1-AlgoritmosDeOrdenamiento))  
+[GitHub - Práctica Algoritmos de Ordenamiento] (https://github.com/SebastianY2007/icc-est-u1-AlgoritmosDeOrdenamiento))  
 
 ---
 
